@@ -71,9 +71,24 @@ That’s it — no build steps, no dependencies.
 * Click **Load File B** to load the second text file
 * The diff updates automatically
 
-Supported formats:
+Supported formats include:
 
 * `.txt`
+* `.md`
+* `.js`
+* `.py`
+* `.json`
+* `.html`
+* `.css`
+* `.c`
+* `.cpp`
+* `.java`
+* `.xml`
+* `.yaml`
+* `.yml`
+* `.asc`
+
+Any text-based file supported by the browser can be compared.
 
 ---
 
